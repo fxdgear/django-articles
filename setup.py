@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-articles',
-    version="2.4.2,
+    version="2.4.2",
     description='Sophisticated blogging engine for Django-powered sites',
     long_description=open('README.rst', 'r').read(),
     keywords='django, blog, blogging, engine',
